@@ -24,7 +24,7 @@ function App() {
     localStorage.setItem('isLoggedIn','1');
     setIsLoggedIn(true);
  
-  };
+ };
 
   
 
