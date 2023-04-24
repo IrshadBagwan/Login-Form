@@ -23,6 +23,7 @@ function App() {
     // But it's just a dummy/ demo anyways
     localStorage.setItem('isLoggedIn','1');
     setIsLoggedIn(true);
+ 
   };
 
   
