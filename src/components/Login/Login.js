@@ -23,7 +23,7 @@ const Login = (props) => {
 
   
   };
-  hello
+  
 
   const CollegeChangeHandler = (event) =>{
     setEnteredCollege(event.target.value);
